@@ -36,7 +36,7 @@ jobs:
             ext: ''
             
           # macOS Intel
-          - os: macos-12
+          - os: macos-14-arm
             platform: macos
             arch: amd64
             ext: ''
