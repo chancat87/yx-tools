@@ -198,6 +198,8 @@ Windows 用「任务计划程序」调用 `yx.exe test ...` 即可。
 
 测速内核来自 [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest)，MIT。
 
+安卓版由 [HERO-WPC](https://github.com/HERO-WPC) 贡献，TG：[@hero_wpc](https://t.me/hero_wpc)。
+
 ## 许可
 
 MIT
